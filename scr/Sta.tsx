@@ -15,6 +15,9 @@ export default function Sta() {
   return (
     <View style={styles.container}>
       <Text>標準偏差</Text>
+      <Text>値を追加</Text>
+      <Text>平均</Text>
+      <Text>標準偏差</Text>
       <StatusBar style="auto" />
     </View>
   );
